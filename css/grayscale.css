@@ -49,6 +49,17 @@ a:focus {
   text-decoration: none;
   color: #1d9b6c;
 }
+.skill{
+  font-size: 120px;
+  margin: 20px;
+}
+.skillrow{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.bg-black{
+  background-color: black;
+}
 .light {
   font-weight: 400;
 }
