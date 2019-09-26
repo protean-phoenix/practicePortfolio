@@ -59,6 +59,8 @@ a:focus {
 }
 .bg-black{
   background-color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .light {
   font-weight: 400;
